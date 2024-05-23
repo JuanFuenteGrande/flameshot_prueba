@@ -1,6 +1,7 @@
 <div align="center">
   <p>
     <h1>
+      MODIFICADO
       <a href="https://github.com/flameshot-org/flameshot">
         <img src="data/img/app/org.flameshot.Flameshot.svg" alt="Flameshot" />
       </a>
